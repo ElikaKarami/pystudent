@@ -1,5 +1,5 @@
 import random
-from ../entities import student
+from ..entities import student
 
 def random_name():
     range_end = len(NAME_BANK) -1
